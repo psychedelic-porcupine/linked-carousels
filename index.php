@@ -54,19 +54,21 @@
 </html>
 
 <script>
-	$('#CarouselA').carousel({
-		interval: 2000
-	});
+	$.ready(function(){
+		$('#CarouselA').carousel({
+			interval: 2000
+		});
 
-	$('#CarouselB').carousel('pause');
-	
-	var i = 0;
-	
-	$('#CarouselA').on('slide', function (e) {
-		i++;
-		if(i == 3){
-			$('#CarouselB').carousel('next');
-			i = 0;
-		}
-  });
+		$('#CarouselB').carousel('pause');
+
+		var i = 0;
+
+		$('#CarouselA').on('slide', function (e) {
+			i++;
+			if(i == 3){
+				$('#CarouselB').carousel('next');
+				i = 0;
+			}
+		});
+	});
 </script>
