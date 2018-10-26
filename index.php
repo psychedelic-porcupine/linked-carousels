@@ -25,13 +25,13 @@
 			<div id="CarouselA" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item">
-					<img src="img/01.jpg" alt="1">
+						<img src="img/01.jpg" alt="1">
 					</div>
 					<div class="item active">
-					<img src="img/02.jpg" alt="2">
+						<img src="img/02.jpg" alt="2">
 					</div>
 					<div class="item">
-					<img src="img/03.jpg" alt="3">
+						<img src="img/03.jpg" alt="3">
 					</div>
 				</div>
 			</div>
@@ -39,13 +39,13 @@
 			<div id="CarouselB" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item">
-					<img src="img/01.jpg" alt="1">
+						<img src="img/01.jpg" alt="1">
 					</div>
 					<div class="item active">
-					<img src="img/02.jpg" alt="2">
+						<img src="img/02.jpg" alt="2">
 					</div>
 					<div class="item">
-					<img src="img/03.jpg" alt="3">
+						<img src="img/03.jpg" alt="3">
 					</div>
 				</div>
 			</div>
