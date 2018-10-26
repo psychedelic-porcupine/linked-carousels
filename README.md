@@ -1,6 +1,6 @@
 # Linked Carousels
 
-### Using Bootstrap 2.3.2
+### Using Bootstrap 2.3.2 (outdated)
 Available here: http://getbootstrap.com/2.3.2/
 
 ### What it does
